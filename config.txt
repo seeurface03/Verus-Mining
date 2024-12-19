@@ -1,0 +1,4 @@
+POOL=sg.vipor.net
+PORT=5040
+WALLET=RGVGvkKhVSZjMcEhoURhMXuibSxZvvfsPW  # Replace with your Verus wallet address
+THREADS=8  # Adjust based on your CPU
